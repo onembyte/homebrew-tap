@@ -6,7 +6,6 @@
 class Kolk < Formula
   desc "Model-agnostic AI coding agent for the terminal"
   homepage "https://kolkrabbi.francomichetti.com/"
-  version "1.3.0"
   license "Apache-2.0"
 
   on_macos do
