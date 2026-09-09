@@ -10,23 +10,23 @@ class Kolk < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.0/kolk_1.3.0_darwin_arm64.tar.gz"
-      sha256 "31bb92b359919810d32cfb8cb4acb183b7346c0411a7400ee392fe5918c9dde8"
+      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.4/kolk_1.3.4_darwin_arm64.tar.gz"
+      sha256 "251b4007f19024b3588e37d95f6ec2dad5573ced0860e6e6b8400c69b3442f9d"
     end
     on_intel do
-      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.0/kolk_1.3.0_darwin_amd64.tar.gz"
-      sha256 "0a60ca9001718bd534561c5be74757fa50fec33316e251bb663f8266d7951aa4"
+      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.4/kolk_1.3.4_darwin_amd64.tar.gz"
+      sha256 "0f34ce21ae4334b1dab548be7213c38f9ddbb26002849e05b6b2d5cbfcdcb2d3"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.0/kolk_1.3.0_linux_arm64.tar.gz"
-      sha256 "61114eef0bd18e9315d7ec65be891e8206afabb1095b3f3fe9e6e434664abadd"
+      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.4/kolk_1.3.4_linux_arm64.tar.gz"
+      sha256 "c927a0e842d69fdb51e82f1e3619a609a75085f46500e28a12d51a687ad57993"
     end
     on_intel do
-      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.0/kolk_1.3.0_linux_amd64.tar.gz"
-      sha256 "6d566b792a9c6a43a7a0db5b2a74d3f680c1707971eb96c1c04256749b1d8de9"
+      url "https://github.com/onembyte/kolkrabbi/releases/download/v1.3.4/kolk_1.3.4_linux_amd64.tar.gz"
+      sha256 "4ab861f4d75afcbea268760950f75adb0ae6646fc475bb47000998f4b0bbe222"
     end
   end
 
